@@ -21,6 +21,8 @@ def get_opt_chain_vol(ticker, is_call = True):
   pass
 ```
 
+### Is there a way to see the B-S formula used to get the implied volatility?
+
 example output of the function `get_opt_chain_vol()`:
 ```
 [
